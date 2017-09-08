@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		B6B96A441F62C6AB0043C46D /* objc_ptr_sample */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = objc_ptr_sample; sourceTree = BUILT_PRODUCTS_DIR; };
 		B6B96A471F62C6AB0043C46D /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		B6B96A4E1F62C7190043C46D /* objc_ptr.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = objc_ptr.hpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				B6B96A471F62C6AB0043C46D /* main.m */,
+				B6B96A4E1F62C7190043C46D /* objc_ptr.hpp */,
 			);
 			path = objc_ptr_sample;
 			sourceTree = "<group>";
